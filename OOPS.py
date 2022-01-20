@@ -1,7 +1,7 @@
 class Cube:     # class CLASS_NAME:
     x=10
     y=20
-    z=30
+    z=40
     color= ""      # intializing attribute
 
     def volume (self) :   # def NAME(self , <other parameter>)    self works as this
